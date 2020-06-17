@@ -1,4 +1,4 @@
-R5T.T0005 - A TypedXElement types library.
+R5T.T0005 - A TypedXDocument, TypedXElement, and TypedXNode types library.
 
 Goals
 
